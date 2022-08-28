@@ -20,8 +20,8 @@ function Service (props: any) {
 
 export function Cost () {
     return (
-        <section className={style.main_container} id='СТОЙМОСТЬ'>
-            <h2 className={style.title}>стоймость услуг:</h2>
+        <section className={style.main_container} id='СТОИМОСТЬ'>
+            <h2 className={style.title}>стоимость услуг:</h2>
             <div className={style.main}>
                 <Service title='КОНСУЛЬТАЦИЯ' cost={3500}/>
                 <Service title='СОСТАВЛЕНИЕ ДОКУМЕНТОВ' cost={4500}/>

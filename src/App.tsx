@@ -10,12 +10,14 @@ import {Cost} from "./components/cost/cost";
 import {Services} from "./components/services/services";
 import {civilCasesArr, criminalProceedingsArr, text1, text2} from "./services/constants";
 import {Content} from "./components/content/content";
+import {Form} from "./components/form/form";
 
 function App() {
   return (
       <main className={style.main}>
           <NavBar/>
           <Header/>
+          <Form/>
           <Intro/>
           <Content text1={text1} text2={text2}/>
           <Steps/>
