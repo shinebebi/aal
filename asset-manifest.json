@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.4b858289.css",
-    "main.js": "./static/js/main.eb972bf9.js",
+    "main.js": "./static/js/main.bf01b2d0.js",
     "static/js/787.b8a4e7d2.chunk.js": "./static/js/787.b8a4e7d2.chunk.js",
     "static/media/court_img.png": "./static/media/court_img.52243144366d9601540d.png",
     "static/media/logo_aal.png": "./static/media/logo_aal.0d1901542b582b26d64b.png",
@@ -13,11 +13,11 @@
     "static/media/civil.png": "./static/media/civil.7f310b4e6c675a2af052.png",
     "index.html": "./index.html",
     "main.4b858289.css.map": "./static/css/main.4b858289.css.map",
-    "main.eb972bf9.js.map": "./static/js/main.eb972bf9.js.map",
+    "main.bf01b2d0.js.map": "./static/js/main.bf01b2d0.js.map",
     "787.b8a4e7d2.chunk.js.map": "./static/js/787.b8a4e7d2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4b858289.css",
-    "static/js/main.eb972bf9.js"
+    "static/js/main.bf01b2d0.js"
   ]
 }
